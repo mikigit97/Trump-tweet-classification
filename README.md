@@ -1,4 +1,3 @@
-# Trump-tweet-classification
 
 
 # Trump Tweet Device Classification
